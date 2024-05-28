@@ -3,13 +3,21 @@ body{
 }
 .header{
     display: flex;
-    background-color: rgb(74, 167, 225);
+    background-color: rgb(55, 168, 239);
     justify-content: space-between;
     color: azure;
     margin-left: 50px;
 }
 .heading{
     margin: 10px;
+}
+.button button{
+
+    border: 1px solid white;
+    border-radius: 5px;
+    height: 40px;
+    background-color:   rgb(55, 168, 239);
+    color: white;
 }
 .options{
     display: flex;
@@ -20,7 +28,7 @@ body{
 }
 
 .content{
-    background-color:rgb(74, 167, 225) ;
+    background-color: rgb(55, 168, 239) ;
     margin-left: 50px ;
 }
 .content button{
