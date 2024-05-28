@@ -1,0 +1,52 @@
+body{
+  /*  background-color:rgb(74, 167, 225); ;*/
+}
+.header{
+    display: flex;
+    background-color: rgb(74, 167, 225);
+    justify-content: space-between;
+    color: azure;
+    margin-left: 50px;
+}
+.heading{
+    margin: 10px;
+}
+.options{
+    display: flex;
+    
+}
+.options div{
+    margin: 10px;
+}
+
+.content{
+    background-color:rgb(74, 167, 225) ;
+    margin-left: 50px ;
+}
+.content button{
+    border-radius: 20px;
+    height: 50px;
+    width: 100px;
+    background-color: greenyellow;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+
+    margin: 20px;
+}
+
+.signup{
+    background-color: orange;
+    width: 500px;
+    height: 400px;
+    margin-right: 50px;
+}
+
+.signup input{
+    margin: 10px;
+}
+input{
+    border-radius: 10px;
+}
