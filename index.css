@@ -9,6 +9,7 @@ body{
     margin-left: 50px;
 }
 .heading{
+    font-family: Arial;
     margin-left: 20px;
 }
 .button button{
@@ -24,7 +25,7 @@ body{
     
 }
 .options div{
-    margin: 10px;
+    margin: 20px;
 }
 .options button{
     margin: 10px;
@@ -34,6 +35,8 @@ body{
     background-color: rgb(55, 168, 239) ;
     margin-left: 50px ;
     margin-top: 50px;
+    color: white;
+    font-family: 'Poppins', sans-serif; 
 }
 .content button{
     border-radius: 20px;
@@ -51,24 +54,28 @@ body{
 
 .signup{
     background-color: white;
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 450px;
     margin-right: 50px;
     margin-top: 50px;
     text-align: center;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+    color: rgb(70, 68, 68);
 }
 
 .signup input{
     margin: 10px;
-    width: 350px;
+    width: 300px;
     height: 40px;
+    background-color: rgb(235, 233, 233);
 }
 .signup button{
-    width: 350px;
+    width: 300px;
     height: 35px;
+    box-shadow: 0px 5px 5px grey;
     border-radius: 20px;
-    background-color: rgb(36, 36, 181);
+    background-color: rgb(3, 184, 250);
 }
 input{
     border-radius: 10px;
