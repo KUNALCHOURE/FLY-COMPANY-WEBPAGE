@@ -21,6 +21,7 @@ body{
     height: 40px;
    background-color: #0083B0;;
     color: white;
+   
 }
 .options{
     display: flex;
@@ -93,4 +94,12 @@ body{
 }
 input{
     border-radius: 10px;
+}
+
+.content button:hover{
+    box-shadow: 0 0 5px white;
+    
+}
+.signup button:hover{
+    box-shadow: 0 0 5px black;
 }
