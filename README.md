@@ -14,5 +14,6 @@ SkyHigh Tickets Landing Page is a sleek and modern web interface designed to att
 - **Google Fonts**: Utilizes 'Poppins' for a modern and clean typography.
   
 ## Screenshot
- -
+ -![Screenshot 2024-07-02 121702](https://github.com/KUNALCHOURE/FLY-COMPANY-WEBPAGE/assets/147177836/081962a4-f21d-486e-a799-66f68af699fd)
+
 
