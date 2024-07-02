@@ -12,3 +12,7 @@ SkyHigh Tickets Landing Page is a sleek and modern web interface designed to att
 - **HTML5**: Provides the structure of the landing page.
 - **CSS3**: Adds styling to the page elements, including the gradient background and responsive design.
 - **Google Fonts**: Utilizes 'Poppins' for a modern and clean typography.
+  
+## Screenshot
+ -
+
