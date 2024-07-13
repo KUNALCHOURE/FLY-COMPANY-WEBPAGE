@@ -1,7 +1,7 @@
 # SkyHigh Tickets Landing Page
 
 ## Overview
-SkyHigh Tickets Landing Page is a sleek and modern web interface designed to attract and convert visitors into customers for an airline ticket booking service. This page provides a welcoming and engaging experience, highlighting the benefits of using SkyHigh Tickets and encouraging users to sign up and explore more.
+SkyHigh Tickets Landing Page is a sleek and modern web interface designed to attract and convert visitors into customers for an airline ticket booking service. This page provides a welcoming and engaging experience, highlighting the benefits of using SkyHigh Tickets and encouraging users to sign up .
 
 ## Features
 - **Navigation Options**: Includes easy navigation through Home, Features, Reviews, Pricing, and FAQ sections.
